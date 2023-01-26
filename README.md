@@ -1,5 +1,6 @@
 # Mathematical Operation Visualizer 
 [TOC]
+By Harkeerat Singh Sawhney
 
 ## Purpose
 
